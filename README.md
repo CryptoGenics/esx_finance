@@ -11,6 +11,7 @@ ___
 # Installation
 1. Clone this repository.
 2. Extract the zip.
+3. Change esx_finance-master to esx_finance
 3. Put esx_finance to your resource folder.
 4. Add "start esx_finance" in your "server.cfg".
 
