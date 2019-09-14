@@ -33,7 +33,7 @@ if xTarget ~= nil then
 			['@amount']      = amount
 		},
 		function(rowsChanged)
-			TriggerClientEvent('7db85f23-fbbd-4055-ab5c-2fbdc4da3289', xTarget.source, _U('received_invoice'))
+			TriggerClientEvent('esx:showNotification', xTarget.source, _U('received_invoice'))
 		end
 	)
 end
@@ -53,7 +53,7 @@ if xTarget ~= nil then
 			['@original']	 = amount
 		},
 		function(rowsChanged)
-			TriggerClientEvent('7db85f23-fbbd-4055-ab5c-2fbdc4da3289', xTarget.source, _U('received_invoice'))
+			TriggerClientEvent('esx:showNotification', xTarget.source, _U('received_invoice'))
 		end
 	)
 end
