@@ -4,7 +4,7 @@
   
 example: config is set to 10% - Billed someone for 100k as a cardealer - Person will pay $10k every IRL day for 10 days automatically
     
-You can easily modify this script to add multiple bussinesses that giveout loans besides cardealers
+You can easily modify this script to add multiple businesses that giveout loans besides cardealers
 
 ___
 
